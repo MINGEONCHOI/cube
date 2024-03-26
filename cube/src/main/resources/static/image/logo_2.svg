@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="레이어-1" vectornator:layerName="레이어 1">
+<path d="M124.668 283.003L512 59.3766L512 506.629" fill="#13457b" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 10"/>
+<path d="M595.11 91.4114L893.031 263.417C895.09 264.605 895.09 267.577 893.031 268.765L595.11 440.77" fill="#1f6fc5" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 11"/>
+<path d="M897.663 267.552L897.663 610.902C897.663 613.274 895.095 614.757 893.04 613.571L595.691 441.896" fill="#3395ff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 6"/>
+<path d="M124.118 283.601L512 506.271L125.221 730.852" fill="#1f6fc5" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 9"/>
+<path d="M512 506.629L512 953.881L124.668 730.255" fill="#3395ff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 8"/>
+<path d="M510.331 506.629L897.663 730.255L510.331 953.881" fill="#23d4fe" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 5"/>
+<path d="M107.959 732.7L107.959 285.448" fill="#3395ff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="곡선 4"/>
+</g>
+</svg>
